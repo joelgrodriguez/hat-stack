@@ -38,8 +38,6 @@ hat-stack/
 │   └── style.css
 ├── dist/
 │   ├── assets/
-│   │   ├── index-CuyNuYD7.css
-│   │   └── index-DdKNsSyB.js
 │   ├── media/
 │   └── index.html
 ├── js/
@@ -50,16 +48,6 @@ hat-stack/
 ├── public/
 │   └── media/
 │       └── favicon/
-├── media/
-│   └── favicon/
-│       ├── android-chrome-192x192.png
-│       ├── android-chrome-512x512.png
-│       ├── apple-touch-icon.png
-│       ├── favicon.ico
-│       ├── favicon-16x16.png
-│       ├── favicon-32x32.png
-│       ├── hat.png
-│       └── hat.zip
 ├── index.html
 ├── package.json
 ├── postcss.config.js
