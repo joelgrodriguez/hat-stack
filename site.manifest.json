@@ -1,0 +1,22 @@
+{
+  "name": "HAT Stack",
+  "short_name": "HATStack",
+  "description": "A quick, fast way to develop simple HTML, Tailwind, and Spline.js apps or sites.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/media/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/media/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
